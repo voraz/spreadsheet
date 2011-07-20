@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# TestWorksheet -- Spreadheet -- 30.09.2008 -- hwyss@ywesee.com
+# TestWorksheet -- Spreadsheet -- 30.09.2008 -- hwyss@ywesee.com
 
 $: << File.expand_path('../lib', File.dirname(__FILE__))
 

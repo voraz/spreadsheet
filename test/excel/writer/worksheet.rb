@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Excel::Writer::TestWorksheet -- Spreadheet -- 21.11.2007 -- hwyss@ywesee.com
+# Excel::Writer::TestWorksheet -- Spreadsheet -- 21.11.2007 -- hwyss@ywesee.com
 
 require 'test/unit'
 require 'spreadsheet/excel/writer/worksheet'
