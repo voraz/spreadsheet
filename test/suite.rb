@@ -9,7 +9,7 @@ here = File.dirname(__FILE__)
 $: << here
 
 Find.find(here) do |file|
-	if /[^suite]\.rb$/o.match(file)
+	if /[^suite\W]\.rb$/o.match(file)
     require file
 	end
 end
