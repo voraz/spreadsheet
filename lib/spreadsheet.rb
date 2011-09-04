@@ -26,6 +26,7 @@
 
 require 'spreadsheet/excel/workbook'
 require 'spreadsheet/excel/reader'
+require 'spreadsheet/version'
 
 # = Synopsis
 # The Spreadsheet Library is designed to read and write Spreadsheet Documents.
@@ -39,10 +40,6 @@ require 'spreadsheet/excel/reader'
 #  sheet = book.worksheet 0
 #  sheet.each do |row| puts row[0] end
 module Spreadsheet
-
-  ##
-  # The version of Spreadsheet you are using.
-  VERSION = '0.6.5.2'
 
   ##
   # Default client Encoding. Change this value if your application uses a
