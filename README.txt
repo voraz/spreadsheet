@@ -71,12 +71,10 @@ Using RubyGems[http://www.rubygems.org]:
 If you don't like RubyGems[http://www.rubygems.org], let me know which
 installation solution you prefer and I'll include it in the future.
 
-If you can use 'rake' and 'hoe' library is also installed, you can 
-build a gem package as follows:
+To build and install the library from source:
 
-* rake gem 
-
-The gem package is built in pkg directory.
+* bundle install
+* rake install
 
 
 == Authors
