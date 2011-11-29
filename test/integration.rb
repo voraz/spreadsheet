@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
-# TestIntegration -- Spreadheet -- 08.10.2007 -- hwyss@ywesee.com
+# TestIntegration -- Spreadsheet -- 08.10.2007 -- hwyss@ywesee.com
 
 $: << File.expand_path('../lib', File.dirname(__FILE__))
 
